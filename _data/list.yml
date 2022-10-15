@@ -19,7 +19,6 @@ toc:
       - page: Побочные задания
         url: /markdown/sidequests
       - page: Задания классов и профессий
-        url: /markdown/job-quests
         subsubfolderitems:
         - page: Адепты Битвы
           url: /markdown/job-quests/dow
