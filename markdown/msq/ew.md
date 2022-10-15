@@ -138,4 +138,16 @@ title: Основной сюжет — Endwalker
 
 ## 6.2 --- Buried Memory {#ew-6-2}
 
+* In Search of Azdaja
+* Shadowed Remnants
+* Where Everything Begins
+* Groping in the Dark
+* Nowhere to Run
+* The Wind Rises
+* Return from the Void
+* A World with Light and Life
+* Buried Memory
+
+## 6.3 {#ew-6-3}
+
 _В ожидании выпуска..._

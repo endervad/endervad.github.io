@@ -2823,4 +2823,4 @@ title: Основной сюжет — A Realm Reborn
     NPC: [Оршефан](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d0a16cdf0ef3d2e5), [Альфино](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=199ef080466fbc2b), [House Fortemps guard](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a1a1ef8253e03cdd)
   </details>
 
-_Продолжение следует в [Heavensward](/markdown/msq/hw)..._
+_Продолжение следует в [Heavensward]({{ '/markdown/msq/hw' | relative_url }})..._
