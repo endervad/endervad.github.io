@@ -1,68 +1,69 @@
 ---
 layout: full
 homepage: true
-disable_anchors: true
-description: If mediocrity had a Jekyll theme...
+title: XivRUS α
 ---
 
-A Jekyll theme inspired by Bootstrap's official documentation theme from a few years back. This theme started off by stealing all of Bootstrap Docs' CSS and being used in [mistic100's theme](https://github.com/mistic100/jekyll-bootstrap-doc). This theme has since be rewritten from scratch and remains solely inspired by the original design.
+## Приветствую! {#hi}
 
-> I've never seen a more mediocre theme it actually hurts my insides.
->
-> ~ _Anonymous_, 2020
+Вы попали на сайт, посвящённый неофициальной локализации FINAL FANTASY XIV на русский язык. Здесь можно найти:
+* Ссылку на скачивание модификации --- она находится вверху
+* Историю изменений модификации между версиями
+* Информацию о проекте
+* Ресурсы для переводчиков
 
-This theme is designed for writing documentation websites instead of having large unmaintainable README files or several markdown files inside of a folder in a repository.
+![Скриншот главного экрана](/assets/images/gallery-01.png)
+
+[Больше скриншотов можно просмотреть ниже.](#gallery)
+
+Основная разработка модификации ведётся в Discord-сервере Tataru Helper: <https://discord.gg/bSrpbd9>. Там в канале #welcome нужно получить роль <<Alpha>> --- тогда будут доступны каналы моей модификации.
+
+Проект был рождён в **14 сентября 2021 года**. Несколько месяцев я им занимался один, после чего в декабре решил выйти на публику. Далее весной 2022 года началась формироваться команда, которая на данный момент состоит уже из **7 человек**. 
+
+Перевод сейчас готов далеко не полностью, однако был совершён немалый прогресс. С текущим вариантом перевода можно играть.
+
+Немножко о самом переводе:
+* Модификация является модпаком для TexTools
+* Penumbra не будет поддерживаться мной, пока она не выйдет в стабильную версию
+* Перевод осуществляется поверх английского языка
+* Перевод не является дословным и допускает незначительные отхождения от оригинала, особенно для благозвучия
+* Перевод проходит с оглядкой на другие официальные языки (японский, французский, немецкий)
+* При переводе имён и названий отдаётся приоритет существующим русским локализациям других игр серии FINAL FANTASY
+
+Ведутся две версии перевода: **RUS** и **RUEN**.
 
 <div class="row">
 <div class="col-lg-6" markdown="1">
 
-## Installation
+## RUS
 {:.mt-lg-0}
 
-This theme is designed to work both as a Gem or as a remote theme, meaning we officially support GitHub Pages.
-
-### Gem
-
-Add this line to your Jekyll site's Gemfile:
-
-```ruby
-gem "jekyll-docs-theme"
-```
-
-And then enable and use the theme in your Jekyll site via its `_config.yml`.
-
-```yaml
-theme: jekyll-docs-theme
-```
-
-### GitHub Pages
-
-And add this line to your Jekyll site's `_config.yml`:
-
-```yaml
-remote_theme: allejo/jekyll-docs-theme@v{{ site.project.version }}
-```
+Версия **RUS** метит быть полной локализацией игры, близкой к официальной, где переведено **всё**.
+- Эта версия мода **будет** ломать функционал плагинов и макросов. В будущем планируется вести взаимодействие с разработчиками плагинов для поддержки русского языка (а в идеале вообще любых неофициальных языков)
+- Существующие внутриигровые макросы потребуется переписать вручную. В планах сделать на этом сайте небольшой инструмент, который будет преобразовывать английские макросы в русские и обратно
 
 </div>
 <div class="col-lg-6" markdown="1">
 
-## Features
+## RUEN
 {:.mt-lg-0}
 
-Despite being a mediocre theme, we've got a features that we're especially proud of and dedicate a lot of our time to making sure they work as expected.
-
-### Graceful Degradation
-
-This theme uses as little JavaScript as possible. All of our anchors and table of contents are generated at build time. Any features that rely on JavaScript have fallbacks for graceful degradation. It's how the web should be nowadays.
-
-### Heavily Customizable
-
-A lot of parts in these theme consist of empty Jekyll includes that are designed to be overridden by website owners. Inject your custom code easily to any part of the website!
-
-### Dark Mode
-
-We all know that dark mode makes you a better human. This theme supports a dark mode based on each user's preference.
+Версия **RUEN** имеет непереведённым следующее:
+- Названия атрибутов/стат
+- Названия предметов
+- Названия действий
+- Названия локаций
+- Имена NPC
+- Названия заданий
+- Игровые термины, используемые между игроками
+- Прочие строки, которые нужны для корректной работы плагинов и макросов
 
 </div>
 </div>
 
+## Галерея скриншотов {#gallery}
+> (Сюда больше различных скриншотов)
+
+
+<div style="text-align: right"><i>@EnderVAD#4551</i>
+</div>

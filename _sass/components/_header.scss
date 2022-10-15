@@ -20,3 +20,24 @@
         width: 22px;
     }
 }
+
+.dropdown-menu {
+	@include themer(background-color, (
+        'dark': darken($background-color-dark, 2.5%),
+        'light': darken($background-color-light, 2.5%),
+    ));
+
+	a {
+		@include themer(color, (
+			'dark': $color-dark,
+			'light': $color-light,
+		));	
+
+		&:hover {
+			@include themer(background, (
+				'dark': $site-ui-brand-dark,
+				'light': $site-ui-brand-light,
+			));	
+		}
+	}
+}

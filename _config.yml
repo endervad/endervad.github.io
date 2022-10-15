@@ -1,10 +1,12 @@
 # name of the software
-name: Jekyll Docs Theme
+name: XivRUS
 
 project:
-  version: 1.0.0
-  download_url: https://github.com/allejo/jekyll-docs-theme/releases
-  download_text: Download
+  version: 0.5.4
+  version_ruen:
+  description: Неофициальная русская локализация FINAL FANTASY XIV
+  download_url: https://github.com/endervad/ffxiv_translation/releases
+  download_text: Скачать
 
 license:
   software: MIT License
@@ -20,10 +22,10 @@ links:
       brand: true
       url: https://github.com/allejo/jekyll-docs-theme
   homepage:
-    - title: View on GitHub
-      icon: github
+    - title: Наш Discord
+      icon: discord
       brand: true
-      url: https://github.com/allejo/jekyll-docs-theme
+      url: https://discord.gg/bSrpbd9
   footer:
     - title: GitHub
       icon: github
@@ -59,22 +61,16 @@ ui:
 
 social:
   github:
-    user: allejo
-    repo: jekyll-docs-theme
-  twitter:
-    enabled: false
-    via:
-    hash:
-    account:
-  facebook:
-    enabled: false
-    profileUrl:
+    user: endervad
+    repo: xivrus_v2
 
 analytics:
   google: UA-123456-1
 
 # Build settings
 markdown: kramdown
+kramdown:
+  parse_block_html: true
 exclude:
   - Gemfile
   - Gemfile.lock

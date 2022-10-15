@@ -71,9 +71,13 @@
     }
 
     img {
-        display: block;
+        display: inline-block;
         max-width: 100%;
     }
+
+	li > p {
+		margin-bottom: 0rem;
+	}
 
     table {
         width: 100%;
@@ -105,4 +109,37 @@
             padding: 0.5rem 0.25rem;
         }
     }
+
+	details {
+		@include themer(color, (
+            'dark': darken($color-dark, 30%),
+            'light': lighten($color-light, 30%),
+        ));
+
+		margin-left: 1rem;
+
+		summary {
+			font-style: italic;
+			display: block;
+			width: fit-content;
+
+			p {
+				border-bottom: 1px dashed currentColor;
+				&:active,
+				&:focus,
+				&:hover {
+					@include themer(color, (
+						'dark': darken($color-dark, 40%),
+						'light': lighten($color-light, 20%),
+					));
+				}
+				margin-bottom: 0rem;
+			}
+		}
+		
+		> p {
+			margin-bottom: 0rem;
+			margin-left: 1rem;
+		}
+	}
 }
