@@ -29,7 +29,11 @@
 				    	    		{% for entry in item.subfolderitems %}
 				    	    		    {% if entry.subsubfolderitems[0] %}
 											<li class="nav-item dropdown">
+												{% if entry.url %}
 												<a class="dropdown-item dropdown-toggle" href="{{ entry.url | relative_url }}">
+												{% else %}
+												<a class="dropdown-item dropdown-toggle" href="#">
+												{% endif %}
 													{{ entry.page }}
 												</a>
 				    	    		    		<ul class="dropdown-menu">
