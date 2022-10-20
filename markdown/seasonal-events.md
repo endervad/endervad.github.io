@@ -86,7 +86,7 @@ title: Сезонные события
 
 ### 2022 {#starlight-celebration-2022}
 
-* Ур. 15 --- 星芒祭と幻影のトナカイ --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=608dec55d33448a6) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-046-fesxms801_04658/)
+* Ур. 15 --- Reindeer Fame --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=608dec55d33448a6) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-046-fesxms801_04658/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -95,7 +95,7 @@ title: Сезонные события
     <br>
     Надписи на земле: (без названия)
   </details>
-* Ур. 15 --- 星芒祭と子どものための幻影 --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=48053524247923f8) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-046-fesxms802_04659/)
+* Ур. 15 --- The Ghost of Starlight Present --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=48053524247923f8) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-046-fesxms802_04659/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
