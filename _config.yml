@@ -2,7 +2,7 @@
 name: XivRUS
 
 project:
-  version: 0.5.5
+  version: 0.5.5a
   version_ruen:
   description: Неофициальная русская локализация FINAL FANTASY XIV
   download_url: https://github.com/endervad/ffxiv_translation/releases
