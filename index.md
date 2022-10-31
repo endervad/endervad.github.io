@@ -1,7 +1,7 @@
 ---
 layout: full
 homepage: true
-title: XivRUS α
+title: XIV Rus
 ---
 
 ## Приветствую! {#hi}

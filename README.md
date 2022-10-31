@@ -1,1 +1,1 @@
-## XivRUS website
+## XIV Rus website
