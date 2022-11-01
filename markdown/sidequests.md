@@ -211,6 +211,25 @@ title: Побочный сюжет
 
 ## Somehow Further Hildibrand Adventures Quests {#hildi-ew}
 
+## Задания Райского острова {#island}
+
+* Ур. 1 --- Seeking Sanctuary --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=18c74f646de471ee) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest/)
+  <details>
+    <summary>NPC, предметы и т.д.
+    </summary>
+
+    NPC: [clueless crier](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=46b3ad570b3e16e4), [Балдин](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=dc2d0f5c5032c16d), (ACTOR2 - 5010000), [Tataru](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ab122b31a3896a99), [Tataru](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7f57283bee12759d), [Доброжелательный пушистик](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=97c604f742db4ce2)
+  </details>
+* Ур. 1 --- The Land, Wind, and Sea --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=81124607c527c9af) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest/) / [Кат-сцена](https://translate.xivrus.ru/projects/ffxiv-translation/quest-046-aktkua101_04643/) - 60--64
+  <details>
+    <summary>NPC, предметы и т.д.
+    </summary>
+
+    NPC: [Любопытный курьер](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=34c222a495967646)
+    <br>
+    Надписи на земле: [Цель](https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=873d157e19e348be)
+  </details>
+
 # Побочные задания Уль'ды {#uldahn-sidequests}
 
 ## Западный Таналан {#uldahn-sidequests-western-thanalan}
