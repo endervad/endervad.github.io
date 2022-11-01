@@ -213,14 +213,14 @@ title: Побочный сюжет
 
 ## Задания Райского острова {#island}
 
-* Ур. 1 --- Seeking Sanctuary --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=18c74f646de471ee) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest/)
+* Ур. 1 --- Seeking Sanctuary --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=18c74f646de471ee) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-046-aktkua101_04643/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
 
-    NPC: [clueless crier](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=46b3ad570b3e16e4), [Балдин](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=dc2d0f5c5032c16d), (ACTOR2 - 5010000), [Tataru](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ab122b31a3896a99), [Tataru](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7f57283bee12759d), [Доброжелательный пушистик](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=97c604f742db4ce2)
+    NPC: [Невежественный глашатай](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=46b3ad570b3e16e4), [Балдин](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=dc2d0f5c5032c16d), (ACTOR2 - 5010000), [Tataru](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ab122b31a3896a99), [Tataru](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7f57283bee12759d), [Доброжелательный пушистик](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=97c604f742db4ce2)
   </details>
-* Ур. 1 --- The Land, Wind, and Sea --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=81124607c527c9af) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest/) / [Кат-сцена](https://translate.xivrus.ru/projects/ffxiv-translation/quest-046-aktkua101_04643/) - 60--64
+* Ур. 1 --- The Land, Wind, and Sea --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=81124607c527c9af) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-046-aktkua201_04645/) / [Кат-сцена](https://translate.xivrus.ru/projects/ffxiv-translation/quest-046-aktkua101_04643/) - 60--64
   <details>
     <summary>NPC, предметы и т.д.
     </summary>

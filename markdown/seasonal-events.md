@@ -7,14 +7,14 @@ title: Сезонные события
 
 ### 2023 {#heavensturn-2023}
 
-* Ур. 0 --- The Box of Fortune --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=426e619ba94bbbd8) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest/)
+* Ур. 0 --- The Box of Fortune --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=426e619ba94bbbd8) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-045-fesnyr901_04588/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
 
     NPC: (ACTOR0 - 0), (ACTOR1 - 0), (ACTOR2 - 0), (ACTOR3 - 0), (ACTOR4 - 0), (ACTOR5 - 0), (ACTOR6 - 0)
   </details>
-* Ур. 0 --- With Great Fortune Comes Great Responsibility --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=aaf27ce29a1b17ed) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest/)
+* Ур. 0 --- With Great Fortune Comes Great Responsibility --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=aaf27ce29a1b17ed) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-045-fesnyr902_04589/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -103,7 +103,7 @@ title: Сезонные события
 
 ### 2022 {#starlight-celebration-2022}
 
-* Ур. 15 --- Reindeer Fame --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=608dec55d33448a6) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest/)
+* Ур. 15 --- Reindeer Fame --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=608dec55d33448a6) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-046-fesxms801_04658/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -112,7 +112,7 @@ title: Сезонные события
     <br>
     Надписи на земле: [Цель](https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=837181a3d278e275)
   </details>
-* Ур. 15 --- The Ghost of Starlight Present --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=48053524247923f8) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest/)
+* Ур. 15 --- The Ghost of Starlight Present --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=48053524247923f8) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-046-fesxms802_04659/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
