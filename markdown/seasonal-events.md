@@ -86,14 +86,23 @@ title: Сезонные события
 
 ### 2022 {#starlight-celebration-2022}
 
-* Ур. 15 --- Reindeer Fame --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=608dec55d33448a6) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-046-fesxms801_04658/)
+* Ур. 15 --- Reindeer Fame --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=608dec55d33448a6) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
 
-    NPC: [アム・ガランジ](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c453e061d4cae2dd), [活発そうな少年](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=cd5ba7ddc0fc34db), [大人しそうな少女](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=783f192ac09b885e), [元気いっぱいの少年](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4d0d8977c5c737c8), [アム・ガランジ](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a5c202174033f659), [ローレンセン](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d40d5a87a6d90a93), [ブリッツェン](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c80b81c25449dfa1), [元気いっぱいの少年](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a0b0064a370ff4b4), [ローレンセン](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e7e8622cdc32612e), [ローレンセン](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=db9b2e069632513f)
+    NPC: [Amh Garanjy](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c453e061d4cae2dd), [bright-eyed boy](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=cd5ba7ddc0fc34db), [cautious child](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=783f192ac09b885e), [lively lad](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4d0d8977c5c737c8), [Amh Garanjy](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a5c202174033f659), [Laurenssen](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d40d5a87a6d90a93), [Blitzen](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c80b81c25449dfa1), [lively lad](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a0b0064a370ff4b4), [Laurenssen](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e7e8622cdc32612e), [Laurenssen](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=db9b2e069632513f)
     <br>
-    Надписи на земле: (без названия)
+    Надписи на земле: [Цель](https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=837181a3d278e275)
+  </details>
+* Ур. 15 --- The Ghost of Starlight Present --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=48053524247923f8) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest/)
+  <details>
+    <summary>NPC, предметы и т.д.
+    </summary>
+
+    NPC: [Laurenssen](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=db9b2e069632513f), [Amh Garanjy](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c453e061d4cae2dd), [Amh Garanjy](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a5c202174033f659), [charmed citizen](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b43f2c4964404018), [happy holidaymaker](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=02c343292de34dcd), [frost fanatic](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f98047652db15ab3), [Blitzen](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1fc2c3fbdb43f16b), [tearful tot](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d30e9cd5841104e7), [Laurenssen](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4e3bd3de2bd4816d), [Blitzen](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0f850e3675941307)
+  </details>
+
   </details>
 * Ур. 15 --- The Ghost of Starlight Present --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=48053524247923f8) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-046-fesxms802_04659/)
   <details>
