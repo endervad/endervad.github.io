@@ -211,6 +211,267 @@ title: Побочный сюжет
 
 ## Somehow Further Hildibrand Adventures Quests {#hildi-ew}
 
+## Оружие Зодиака {#zodiac}
+
+* Ур. 50 --- Up in Arms --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=9dba6f379673707f) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-014-jobrel001_01435/)
+  <details>
+    <summary>NPC, предметы и т.д.
+    </summary>
+
+    NPC: [Герольт](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4232878b33d4a101), [Джалзан](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b77e2ee4fa214dfd)
+  </details>
+* Ур. 50 --- Trials of the Braves --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=32d36568299ae989) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-014-jobrel002_01436/)
+  <details>
+    <summary>NPC, предметы и т.д.
+    </summary>
+
+    NPC: [Джалзан](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b77e2ee4fa214dfd), [Ровена](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=96195572aeed6a73), [Г'джусана](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=03530ec46e4d0a4f)
+  </details>
+* Ур. 50 --- Celestial Radiance --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=1e05f3669a72bff1) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-014-jobrel003_01462/)
+  <details>
+    <summary>NPC, предметы и т.д.
+    </summary>
+
+    NPC: [Джалзан](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b77e2ee4fa214dfd), [Мутамикс Булькотел](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1151e10104f97e3b), [Хубайртин](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=15b7e25129599460), [Ровена](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=96195572aeed6a73)
+  </details>
+* Ур. 50 --- Star Light, Star Bright --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=031e6a28c8d806ea) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-014-jobrel004_01464/)
+  <details>
+    <summary>NPC, предметы и т.д.
+    </summary>
+
+    NPC: [Хубайртин](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=15b7e25129599460), [Джалзан](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b77e2ee4fa214dfd)
+  </details>
+* Ур. 50 --- Mmmmmm, Soulglazed Relics --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=3fa6c2c2532409ad) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-002-jobrel007_00206/)
+  <details>
+    <summary>NPC, предметы и т.д.
+    </summary>
+
+    NPC: [Джалзан](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b77e2ee4fa214dfd), [Герольт](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4232878b33d4a101)
+  </details>
+* Ур. 50 --- Wherefore Art Thou, Zodiac --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=19636a1f6c389730) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-003-jobrel010_00356/)
+  <details>
+    <summary>NPC, предметы и т.д.
+    </summary>
+
+    NPC: [Джалзан](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b77e2ee4fa214dfd), [Герольт](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4232878b33d4a101)
+  </details>
+* Ур. 50 --- A Ponze of Flesh --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=3a4039f219d4f942) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-003-jobrel011_00357/)
+  <details>
+    <summary>NPC, предметы и т.д.
+    </summary>
+
+    NPC: [Papana](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8b7cead49100a0f1), (ACTOR1 - 5010000)
+    <br>
+    Предметы: [horn of the beast](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=6269bdfd4f881318) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=6269bdfd4f881318)), [gobmachine bangplate](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=6551671deac5d32a) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=6551671deac5d32a)), [Narasimha hide](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=94ef2c5a73f942a1) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=94ef2c5a73f942a1)), [sickle fang](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=b019d8363052ba72) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=b019d8363052ba72))
+  </details>
+* Ур. 50 --- Labor of Love --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=d461cc4e827d3120) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-003-jobrel012_00358/)
+  <details>
+    <summary>NPC, предметы и т.д.
+    </summary>
+
+    NPC: [Guiding Star](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=31c708de2ce6c680), (ACTOR1 - 5010000)
+    <br>
+    Предметы: [vale bubo](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=aa3f1fe92468e34b) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=aa3f1fe92468e34b)), [piece of voidweave](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=045801a8932fee42) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=045801a8932fee42)), [slip of Amdapor vellum](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=2349197ffa20a989) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=2349197ffa20a989)), [Indigo pearl](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=9b93e8a3bf2d900f) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=9b93e8a3bf2d900f))
+  </details>
+* Ур. 50 --- Method in His Malice --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=4a2b83ae97194a61) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-003-jobrel013_00359/)
+  <details>
+    <summary>NPC, предметы и т.д.
+    </summary>
+
+    NPC: [Adkin](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7b872cef7e4e205f), (ACTOR1 - 5010000)
+    <br>
+    Предметы: [vial of tonberry king blood](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=25afa4711a37d6fa) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=25afa4711a37d6fa)), [vial of royal gigant blood](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=e29520a49aef27c8) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=e29520a49aef27c8)), [vial of kraken blood](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=a6972d27c182dcce) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=a6972d27c182dcce)), [vial of vicegerent blood](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=996c858f465c5141) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=996c858f465c5141))
+  </details>
+* Ур. 50 --- A Treasured Mother --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=61769e33d6c3ec15) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-003-jobrel014_00360/)
+  <details>
+    <summary>NPC, предметы и т.д.
+    </summary>
+
+    NPC: [Брангвин](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b704a7da5896ec2c), [Эалдвин](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9447684fdf277d82), (ACTOR2 - 5010000)
+    <br>
+    Предметы: [lost treasure of Amdapor](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=c64359e1d412af1f) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=c64359e1d412af1f)), [lost treasure of Pharos Sirius](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=f6c0aaadfe155dc3) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=f6c0aaadfe155dc3)), [lost treasure of the Tam-Tara Deepcroft](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=c9fe08f0a861ace7) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=c9fe08f0a861ace7)), [lost treasure of the Stone Vigil](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=78587c6523dc4b21) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=78587c6523dc4b21))
+  </details>
+* Ур. 50 --- His Dark Materia --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=538f54ecb5a2ae6d) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-003-jobrel015_00361/)
+  <details>
+    <summary>NPC, предметы и т.д.
+    </summary>
+
+    NPC: [Герольт](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4232878b33d4a101), [Мутамикс Булькотел](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1151e10104f97e3b), [Джалзан](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b77e2ee4fa214dfd)
+  </details>
+* Ур. 50 --- Rise and Shine --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=518c595f1b3bc12e) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-005-jobrel016_00560/)
+  <details>
+    <summary>NPC, предметы и т.д.
+    </summary>
+
+    NPC: [Джалзан](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b77e2ee4fa214dfd), [Герольт](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4232878b33d4a101), [Ровена](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=96195572aeed6a73), [Remon](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5a464298b4919a8e)
+    <br>
+    Предметы: [bottle of Sunshine](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=01ce1200cb54a0b9) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=01ce1200cb54a0b9))
+  </details>
+* Ур. 50 --- The Vital Title --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=4a4af86c42746f82) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-005-jobrel017_00561/)
+  <details>
+    <summary>NPC, предметы и т.д.
+    </summary>
+
+    NPC: [Джалзан](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b77e2ee4fa214dfd), [Герольт](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4232878b33d4a101)
+  </details>
+* Ур. 50 --- The Vital Title --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=588fb0c4c774b109) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-022-jobrel099_02287/)
+  <details>
+    <summary>NPC, предметы и т.д.
+    </summary>
+
+    NPC: [Джалзан](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b77e2ee4fa214dfd), [Герольт](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4232878b33d4a101)
+  </details>
+
+### Паладин {#zodiac-pld}
+* Ур. 50 --- A Relic Reborn (Curtana) --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=fea73cb2f97495ba) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-011-jobpld001_01120/)
+  <details>
+    <summary>NPC, предметы и т.д.
+    </summary>
+
+    NPC: [Герольт](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4232878b33d4a101), (ACTOR1 - 5010000), [Ровена](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=96195572aeed6a73), [Мугл-портной](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=874ed06470d9bfee), [Фафаджони](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5370aae410f9f23c)
+    <br>
+    Вражеские NPC: [earth homunculus](https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=0449c036a44e7bee), [lightning homunculus](https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=602e101ad6c1ca82), [Lewein](https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=f4af9fe439f4e172)
+    <br>
+    Предметы: [timeworn Curtana](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=253978112957abf6) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=253978112957abf6)), [щепотка глинозёмных солей](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=3efdbcd9b004391b) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=3efdbcd9b004391b)), [амдапорский глиф](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=369c9baa999b5cc6) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=369c9baa999b5cc6)), [копия «Песни Тристрама»](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=cebbde8ea0e88495) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=cebbde8ea0e88495)), [раскаленный уголёк](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=a5d88581cbf564f7) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=a5d88581cbf564f7)), [штормовое пёрышко](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=d6882504782b3901) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=d6882504782b3901)), [мешочек накалённой руды](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=facd12943087de59) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=facd12943087de59))
+    <br>
+    Надписи на земле: [Сундук с сокровищами](https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=d494272fc3c3b09d)
+  </details>
+
+### Монах {#zodiac-mnk}
+* Ур. 50 --- A Relic Reborn (Sphairai) --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=acd27b19a3c77cf9) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-011-jobmnk001_01121/)
+  <details>
+    <summary>NPC, предметы и т.д.
+    </summary>
+
+    NPC: [Герольт](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4232878b33d4a101), (ACTOR1 - 5010000), [Ровена](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=96195572aeed6a73), [Мугл-портной](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=874ed06470d9bfee), [Фафаджони](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5370aae410f9f23c)
+    <br>
+    Вражеские NPC: [earth homunculus](https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=0449c036a44e7bee), [lightning homunculus](https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=602e101ad6c1ca82), [water homunculus](https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=a0d75e0477c5f9e5)
+    <br>
+    Предметы: [pair of timeworn Sphairai](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=8613ab9947554cfc) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=8613ab9947554cfc)), [щепотка глинозёмных солей](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=6198fcd876fae0bd) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=6198fcd876fae0bd)), [амдапорский глиф](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=68baff1fe6bbb682) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=68baff1fe6bbb682)), [копия «Вводная о Куэрлах»](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=5333533f7a41731a) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=5333533f7a41731a)), [раскаленный уголёк](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=7b7bcc1b2f004458) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=7b7bcc1b2f004458)), [штормовое пёрышко](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=7c97a33887d811fa) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=7c97a33887d811fa)), [мешочек накалённой руды](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=53fab87cc42a3b39) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=53fab87cc42a3b39))
+    <br>
+    Надписи на земле: [Сундук с сокровищами](https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=de933387a426c48c)
+  </details>
+
+### Воин {#zodiac-war}
+* Ур. 50 --- A Relic Reborn (Bravura) --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=a576d7ffc690f3bb) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-011-jobwar001_01119/)
+  <details>
+    <summary>NPC, предметы и т.д.
+    </summary>
+
+    NPC: [Герольт](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4232878b33d4a101), (ACTOR1 - 5010000), [Ровена](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=96195572aeed6a73), [Мугл-портной](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=874ed06470d9bfee), [Фафаджони](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5370aae410f9f23c)
+    <br>
+    Вражеские NPC: [Temperance of the Alacran](https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=55b10e990c24c21e), [(без названия)](https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=e5dc66e9a2852ba7), [Kindness of the Alacran](https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=01f82dfc4c5314b7)
+    <br>
+    Предметы: [timeworn Bravura](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=34ec06399f2b4993) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=34ec06399f2b4993)), [щепотка глинозёмных солей](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=3a2987bc3a29d4da) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=3a2987bc3a29d4da)), [амдапорский глиф](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=c088bfa925c0dabc) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=c088bfa925c0dabc)), [копия «Внутренний воин»](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=5671ed7bb6a4c498) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=5671ed7bb6a4c498)), [раскаленный уголёк](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=c7aac1fe745a0a1d) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=c7aac1fe745a0a1d)), [штормовое пёрышко](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=f95e9d75dba0775e) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=f95e9d75dba0775e)), [мешочек накалённой руды](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=8c11377dcb6f2762) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=8c11377dcb6f2762))
+    <br>
+    Надписи на земле: [Сундук с сокровищами](https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=9a7f1079598ec43b)
+  </details>
+
+### Драгун {#zodiac-drg}
+* Ур. 50 --- A Relic Reborn (Gae Bolg) --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=ceeef9f6587cee4c) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-011-jobdrg001_01122/)
+  <details>
+    <summary>NPC, предметы и т.д.
+    </summary>
+
+    NPC: [Герольт](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4232878b33d4a101), (ACTOR1 - 5010000), [Ровена](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=96195572aeed6a73), [Мугл-портной](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=874ed06470d9bfee), [Фафаджони](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5370aae410f9f23c)
+    <br>
+    Вражеские NPC: [(без названия)](https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=8306d34ce95b9642), [???](https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=82455e958ebc8d0f), [(без названия)](https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=cb29f07448832d03)
+    <br>
+    Предметы: [timeworn Gae Bolg](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=9a989e5176e25618) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=9a989e5176e25618)), [щепотка глинозёмных солей](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=2da387843929dc18) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=2da387843929dc18)), [амдапорский глиф](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=38a6efa7fd0ff4e9) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=38a6efa7fd0ff4e9)), [копия «Книга о Ренет»](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=e145c9d75350c86d) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=e145c9d75350c86d)), [раскаленный уголёк](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=7b218f61ca21fff3) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=7b218f61ca21fff3)), [штормовое пёрышко](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=90d820547c84b326) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=90d820547c84b326)), [мешочек накалённой руды](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=eca060a98e4aa191) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=eca060a98e4aa191))
+    <br>
+    Надписи на земле: [Сундук с сокровищами](https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=5224bfde60ab8882)
+  </details>
+
+### Бард {#zodiac-brd}
+* Ур. 50 --- A Relic Reborn (Artemis Bow) --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=2db764ed060de773) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-011-jobbrd001_01125/)
+  <details>
+    <summary>NPC, предметы и т.д.
+    </summary>
+
+    NPC: [Герольт](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4232878b33d4a101), (ACTOR1 - 5010000), [Ровена](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=96195572aeed6a73), [Мугл-портной](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=874ed06470d9bfee), [Фафаджони](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5370aae410f9f23c)
+    <br>
+    Вражеские NPC: [(без названия)](https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=8306d34ce95b9642), [???](https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=82455e958ebc8d0f), [(без названия)](https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=d1aacfcc68dcbc86)
+    <br>
+    Предметы: [timeworn Artemis Bow](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=3618b1adf5d2741d) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=3618b1adf5d2741d)), [щепотка глинозёмных солей](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=aa1edb73befb14a0) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=aa1edb73befb14a0)), [амдапорский глиф](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=b824f56781e6cdab) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=b824f56781e6cdab)), [копия «Лук богов»](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=a4206f8536fa5085) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=a4206f8536fa5085)), [раскаленный уголёк](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=6ddcda8e10f0a5fd) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=6ddcda8e10f0a5fd)), [штормовое пёрышко](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=20c3a95a89b0426f) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=20c3a95a89b0426f)), [мешочек накалённой руды](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=87f54db2616e2969) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=87f54db2616e2969))
+    <br>
+    Надписи на земле: [Сундук с сокровищами](https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=1efb875535933ab5)
+  </details>
+
+### Ниндзя {#zodiac-nin}
+* Ур. 50 --- A Relic Reborn (Yoshimitsu) --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=de8b6df40703535b) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-015-jobnin001_01579/)
+  <details>
+    <summary>NPC, предметы и т.д.
+    </summary>
+
+    NPC: [Герольт](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4232878b33d4a101), (ACTOR1 - 5010000), [Ровена](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=96195572aeed6a73), [Мугл-портной](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=874ed06470d9bfee), [Фафаджони](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5370aae410f9f23c)
+    <br>
+    Вражеские NPC: [stalwart swordsman](https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=89ab0a735e02c6fd), [seemingly ordinary imp](https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=2a759b44e02e4db8), [Галфрид Храбрый](https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=19d369fbc7da05bf)
+    <br>
+    Предметы: [pair of timeworn Yoshimitsu](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=6c2eff55d2bb1508) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=6c2eff55d2bb1508)), [щепотка глинозёмных солей](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=5196364791f9f35b) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=5196364791f9f35b)), [амдапорский глиф](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=f0eeef2893c3dd67) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=f0eeef2893c3dd67)), [копия «Сёнинки»](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=2385a9b2fa4d02f2) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=2385a9b2fa4d02f2)), [раскаленный уголёк](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=b717c70694ba53e0) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=b717c70694ba53e0)), [штормовое пёрышко](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=0603e2e8abf431c4) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=0603e2e8abf431c4)), [мешочек накалённой руды](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=b257eb33faddd2aa) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=b257eb33faddd2aa))
+    <br>
+    Надписи на земле: [banded chest](https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=db81f540b1075a8f)
+  </details>
+
+### Белый маг {#zodiac-whm}
+* Ур. 50 --- A Relic Reborn (Thyrus) --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=8660fd907396fcc5) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-011-jobwhm001_01124/)
+  <details>
+    <summary>NPC, предметы и т.д.
+    </summary>
+
+    NPC: [Герольт](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4232878b33d4a101), (ACTOR1 - 5010000), [Ровена](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=96195572aeed6a73), [Мугл-портной](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=874ed06470d9bfee), [Фафаджони](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5370aae410f9f23c)
+    <br>
+    Вражеские NPC: [Temperance of the Alacran](https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=55b10e990c24c21e), [Cocobusi the Cross](https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=d2e592e9ba673e28), [Kindness of the Alacran](https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=01f82dfc4c5314b7)
+    <br>
+    Предметы: [timeworn Thyrus](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=97a5c44799253652) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=97a5c44799253652)), [щепотка глинозёмных солей](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=789176898a385f48) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=789176898a385f48)), [амдапорский глиф](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=66ce3deb8e5f8a49) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=66ce3deb8e5f8a49)), [копия «Интервью с паджал»](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=41bbc73d64cba226) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=41bbc73d64cba226)), [раскаленный уголёк](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=f9617bac481f4a42) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=f9617bac481f4a42)), [штормовое пёрышко](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=25e100d54aff3579) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=25e100d54aff3579)), [мешочек накалённой руды](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=a6e4782597199f5a) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=a6e4782597199f5a))
+    <br>
+    Надписи на земле: [Сундук с сокровищами](https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=2e8426bcef7b820c)
+  </details>
+
+### Чёрный маг {#zodiac-blm}
+* Ур. 50 --- A Relic Reborn (Stardust Rod) --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=d8139e4026e6d754) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-011-jobblm001_01123/)
+  <details>
+    <summary>NPC, предметы и т.д.
+    </summary>
+
+    NPC: [Герольт](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4232878b33d4a101), (ACTOR1 - 5010000), [Ровена](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=96195572aeed6a73), [Мугл-портной](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=874ed06470d9bfee), [Фафаджони](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5370aae410f9f23c)
+    <br>
+    Вражеские NPC: [Temperance of the Alacran](https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=55b10e990c24c21e), [Cocobusi the Cross](https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=d2e592e9ba673e28), [Kindness of the Alacran](https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=01f82dfc4c5314b7)
+    <br>
+    Предметы: [timeworn Stardust Rod](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=20843d6903fffe07) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=20843d6903fffe07)), [щепотка глинозёмных солей](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=b9af2d72fd8833c2) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=b9af2d72fd8833c2)), [амдапорский глиф](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=8f5333bb48b7284b) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=8f5333bb48b7284b)), [копия «На пруду Верданта»](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=6df8132fd7ea218a) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=6df8132fd7ea218a)), [раскаленный уголёк](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=8426e8d042de1d22) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=8426e8d042de1d22)), [штормовое пёрышко](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=90a2491d8591fc10) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=90a2491d8591fc10)), [мешочек накалённой руды](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=617b87af4fd3b8c3) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=617b87af4fd3b8c3))
+    <br>
+    Надписи на земле: [Сундук с сокровищами](https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=7b3a62354dbe1835)
+  </details>
+
+### Призыватель {#zodiac-smn}
+* Ур. 50 --- A Relic Reborn (The Veil of Wiyu) --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=2c287b953d63ed02) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-011-jobsmn001_01126/)
+  <details>
+    <summary>NPC, предметы и т.д.
+    </summary>
+
+    NPC: [Герольт](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4232878b33d4a101), (ACTOR1 - 5010000), [Ровена](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=96195572aeed6a73), [Мугл-портной](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=874ed06470d9bfee), [Фафаджони](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5370aae410f9f23c)
+    <br>
+    Вражеские NPC: [(без названия)](https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=c13cfca8d74de748), [Сэр Эоланда Квиверон](https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=6372421955602739), [Болдуин](https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=f6e43070160155b2)
+    <br>
+    Предметы: [timeworn Veil of Wiyu](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=168d57eb7b63f538) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=168d57eb7b63f538)), [щепотка глинозёмных солей](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=e559480c1a963063) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=e559480c1a963063)), [амдапорский глиф](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=727639de6dadd11f) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=727639de6dadd11f)), [копия «Под покровом»](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=3adf0f5e3aee62ad) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=3adf0f5e3aee62ad)), [раскаленный уголёк](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=ceca8e6433b9db79) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=ceca8e6433b9db79)), [штормовое пёрышко](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=88c3c728cd4d984d) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=88c3c728cd4d984d)), [мешочек накалённой руды](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=cdd60d886299d555) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=cdd60d886299d555))
+    <br>
+    Надписи на земле: [Сундук с сокровищами](https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=fdcd998a58b148ec)
+  </details>
+
+### Учёный {#zodiac-sch}
+* Ур. 50 --- A Relic Reborn (Omnilex) --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=36a89b94f5d7b267) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-011-jobsch001_01127/)
+  <details>
+    <summary>NPC, предметы и т.д.
+    </summary>
+
+    NPC: [Герольт](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4232878b33d4a101), (ACTOR1 - 5010000), [Ровена](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=96195572aeed6a73), [Мугл-портной](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=874ed06470d9bfee), [Фафаджони](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5370aae410f9f23c)
+    <br>
+    Вражеские NPC: [stalwart swordsman](https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=89ab0a735e02c6fd), [seemingly ordinary imp](https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=2a759b44e02e4db8), [Галфрид Храбрый](https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=19d369fbc7da05bf)
+    <br>
+    Предметы: [timeworn copy of the Omnilex](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=5ab0b96455f52a13) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=5ab0b96455f52a13)), [щепотка глинозёмных солей](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=6701956fceac2295) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=6701956fceac2295)), [амдапорский глиф](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=f407a18e4ccec72c) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=f407a18e4ccec72c)), [копия «Война Магов»](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=0e5b094e3ed38f96) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=0e5b094e3ed38f96)), [раскаленный уголёк](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=0e4ce31dccc4a438) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=0e4ce31dccc4a438)), [штормовое пёрышко](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=12ff3d958c0eefd3) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=12ff3d958c0eefd3)), [мешочек накалённой руды](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=2d7c9fb99ca9862e) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=2d7c9fb99ca9862e))
+    <br>
+    Надписи на земле: [Сундук с сокровищами](https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=9b93c58a983fad25)
+  </details>
+
 ## Задания Райского острова {#island}
 
 * Ур. 1 --- Seeking Sanctuary --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=18c74f646de471ee) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-046-aktkua101_04643/)
