@@ -491,13 +491,58 @@ title: Побочный сюжет
     Надписи на земле: [Цель](https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=873d157e19e348be)
   </details>
 
+# Побочные задания Лимса Ломинсы {#lominsan-sidequests}
+
+## Восточная Ла Ноша {#lominsan-sidequests-eastern-la-noscea}
+
+* Ур. 36 --- Treasures and Tribulations --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=fdd142f8afcc1001) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-012-subcts802_01211/)
+  <details>
+    <summary>NPC, предметы и т.д.
+    </summary>
+
+    NPC: [H'loonh](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fa3e16c746a44ad7), [diligent digger](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d607dfb9fb65d0ce), [Эалдвин](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=36c1de7a0ab0c488)
+    <br>
+    Вражеские NPC: (ENEMY0 - 4516154), (ENEMY1 - 4516155), (ENEMY2 - 4516156), (ENEMY3 - 4516157)
+    <br>
+    Предметы: [tattered coinpurse](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=425b7d63db6176bc) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=425b7d63db6176bc)), [shattered bottle](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=758d283806c17205) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=758d283806c17205))
+    <br>
+    Надписи на земле: [shabby casket](https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=14abb35072298ab3), [shabby casket](https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=c87c59ec59948f47), [(Р±РµР· РЅР°Р·РІР°РЅРёСЏ)](https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=aac40d56b5d22e1d)
+  </details>
+
+# Побочные задания Гридании {#gridanian-sidequests}
+
+## Северная Роща {#gridanian-sidequests-north-shroud}
+
+* Ур. 50 --- One Man's Trash --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=ecf3edbe2711eedd) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-011-jobrel005_01140/)
+  <details>
+    <summary>NPC, предметы и т.д.
+    </summary>
+
+    NPC: [Эалдвин](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a44e3c9c1e087868), [Брангвин](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b704a7da5896ec2c)
+    <br>
+    Предметы: [bottled map](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=1ff418b9fbbc3cb9) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=1ff418b9fbbc3cb9))
+  </details>
+
 # Побочные задания Уль'ды {#uldahn-sidequests}
 
 ## Западный Таналан {#uldahn-sidequests-western-thanalan}
 
-* Hallo Halatali --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=155300f0675e9c54) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-006-subwil140_00697/)
+* Ур. 19 --- Hallo Halatali --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=5eaad1470ec50e87) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-006-subwil140_00697/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
-    NPC: [Недрик Железное Сердце](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9acfa004ec7a1a1), [Fafajoni](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5370aae410f9f23c)
+
+    NPC: [Недрик Железное Сердце](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=09acfa004ec7a1a1), [Фафаджони](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5370aae410f9f23c)
+  </details>
+
+# Побочные задания Мор Доны {#mor-dhonan-sidequests}
+
+* Ур. 50 --- Morbid Motivation --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=6a814b4e47b943d2) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-011-jobrel006_01141/)
+  <details>
+    <summary>NPC, предметы и т.д.
+    </summary>
+
+    NPC: [Брангвин](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b704a7da5896ec2c), (ACTOR1 - 5010000)
+    <br>
+    Предметы: [мешок с вещами приключенца](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=aafd1fb816b588af) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=aafd1fb816b588af))
   </details>
