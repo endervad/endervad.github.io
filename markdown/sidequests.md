@@ -506,7 +506,7 @@ title: Побочный сюжет
     <br>
     Предметы: [tattered coinpurse](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=425b7d63db6176bc) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=425b7d63db6176bc)), [shattered bottle](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=758d283806c17205) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=758d283806c17205))
     <br>
-    Надписи на земле: [shabby casket](https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=14abb35072298ab3), [shabby casket](https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=c87c59ec59948f47), [(Р±РµР· РЅР°Р·РІР°РЅРёСЏ)](https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=aac40d56b5d22e1d)
+    Надписи на земле: [shabby casket](https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=14abb35072298ab3), [shabby casket](https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=c87c59ec59948f47), [(без названия)](https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=aac40d56b5d22e1d)
   </details>
 
 # Побочные задания Гридании {#gridanian-sidequests}
