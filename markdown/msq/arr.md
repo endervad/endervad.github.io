@@ -5,9 +5,13 @@ title: Основной сюжет — A Realm Reborn
 
 **Внимание! Эта страница содержит названия всех квестов основного сюжета. Некоторые из них содержат в себе спойлеры.**
 
+# 2.0 --- A Realm Reborn {#arr-2-0}
+
 * Субтитры к вступительному ролику + Субтитры видения персонажа – [Кат-сцена](https://translate.xivrus.ru/projects/ffxiv-translation/quest-000-manfst000_00083/)
 
-### Гридания / Gridania {#arr-2-0-gridania}
+## Начальные задания {#arr-2-0-starting}
+
+### Гридания {#arr-2-0-starting-gridania}
 
 * Пролог
   * Новый авантюрист --- [Кат-сцена](https://translate.xivrus.ru/projects/ffxiv-translation/quest-000-manfst000_00083/)
@@ -271,7 +275,7 @@ title: Основной сюжет — A Realm Reborn
     NPC: [Бартоломей](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7672b1288526909a), [Бадерон](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fbc2b5f8b2b0f5b1)
   </details>
 
-### Лимса Ломинса / Limsa Lominsa {#arr-2-0-limsa}
+### Лимса Ломинса {#arr-2-0-starting-limsa}
 
 * Пролог
   * Новый авантюрист --- [Кат-сцена](https://translate.xivrus.ru/projects/ffxiv-translation/quest-005-mansea000_00541/)
@@ -529,7 +533,7 @@ title: Основной сюжет — A Realm Reborn
     NPC: [Офицер Ордена](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f6d5430b259b6206), [Бадерон](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fbc2b5f8b2b0f5b1)
   </details>
 
-### Уль'да / Ul'dah {#arr-2-0-uldah}
+### Уль'да {#arr-2-0-starting-uldah}
 
 * Пролог
   * Новый авантюрист --- [Кат-сцена](https://translate.xivrus.ru/projects/ffxiv-translation/quest-005-manwil000_00548/)
@@ -928,7 +932,9 @@ title: Основной сюжет — A Realm Reborn
     Надписи на земле: [Цель](https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=2f3ca0c024dba88b), [Цель](https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=73a1dfce39131e74)
   </details>
 
-### Выбор ВК / GC - Twin Adder {#arr-2-0-twin-adder}
+## Выбор Великой Компании {#arr-2-0-gc}
+
+### Twin Adder {#arr-2-0-gc-twin-adder}
 
 * The Company You Keep (Twin Adder) --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=ea0819b51b172ee3) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-006-manfst302_00680/)
   <details>
@@ -954,7 +960,7 @@ title: Основной сюжет — A Realm Reborn
     NPC: [Ворсель Хелокс](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=eb796c9f86e22d68), [Сингур](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=34cd3623217aa410), [chocobo](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=80977f5456e79748)
   </details>
 
-### Выбор ВК / GC - Maelstrom {#arr-2-0-maelstrom}
+### Maelstrom {#arr-2-0-gc-maelstrom}
 
 * The Company You Keep (Maelstrom) --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=9d5d9db96f28ecde) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-006-mansea302_00681/)
   <details>
@@ -980,7 +986,7 @@ title: Основной сюжет — A Realm Reborn
     NPC: [Р'айшат Рики](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6a5bdf5c296cc099), [Фрегейм](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d5bc500e42290c1a), [chocobo](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b0b653b7bf3a4efa)
   </details>
 
-### Выбор ВК / GC - Immortal Flames {#arr-2-0-immortal-flames}
+### Immortal Flames {#arr-2-0-gc-immortal-flames}
 
 * The Company You Keep (Immortal Flames) --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=63ac8c2c9e670401) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-006-manwil302_00682/)
   <details>
@@ -1006,8 +1012,7 @@ title: Основной сюжет — A Realm Reborn
     NPC: [Свифт](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1f64b734f93497d4), [Мимиган](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a4d452997edb81e0), [Чокобо](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ceb2923da1675ecd)
   </details>
 
-## Общие {#arr-2-0-continued-2}
-### Цепочка сильфов {#arr-2-0-sylphs}
+## Цепочка сильфов {#arr-2-0-sylphs}
 
 * Sylph-management --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=585cedebe2ca927a) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-005-manfst304_00513/)
   <details>
@@ -1196,7 +1201,7 @@ title: Основной сюжет — A Realm Reborn
     NPC: [Ворсель Хелокс](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=eb796c9f86e22d68), [Татару](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=505a5a51556f79e8), [Минфилия](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=cd122919c200ed1b)
   </details>
 
-### Цепочка Лахабреи и Леди Амандины {#arr-2-0-lahabrea}
+## Цепочка Лахабреи и Леди Амандины {#arr-2-0-lahabrea}
 
 * Shadow of Darkness --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=8afcf4a2718c6ffc) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-007-gaiusa405_00747/) / [Кат-сцена](https://translate.xivrus.ru/projects/ffxiv-translation/quest-007-gaiusa404_00746/) - 50--92
   <details>
@@ -1395,7 +1400,7 @@ title: Основной сюжет — A Realm Reborn
     Надписи на земле: [Врата поместья](https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=bc208377f1f285e)
   </details>
 
-### Цепочка Титана {#arr-2-0-titan}
+## Цепочка Титана {#arr-2-0-titan}
 
 * Wrath of the Titan --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=ed860460e1a546d2) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-005-manfst309_00516/)
   <details>
@@ -1605,7 +1610,7 @@ title: Основной сюжет — A Realm Reborn
     Надписи на земле: [Эфирит зверолюдей](https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=afdaa570bdab108f)
   </details>
 
-### Цепочка Гаруды {#arr-2-0-garuda}
+## Цепочка Гаруды {#arr-2-0-garuda}
 
 * All Good Things --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=c356df26dc50a7aa) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-005-manfst313_00517/)
   <details>
@@ -1951,7 +1956,7 @@ title: Основной сюжет — A Realm Reborn
     NPC: [Альфино](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f2c1597d7eeb5638), [Элиенора](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=93122861dfcba710), [Альфино](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2c09af6b98d804a9), [Сид](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c1b0db5c505515aa)
   </details>
 
-### Цепочка Гая ван Бельсара {#arr-2-0-gaius-van-baelsar}
+## Цепочка Гая ван Бельсара {#arr-2-0-gaius-van-baelsar}
 
 * Casing the Castrum --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=44e404f5e55bc55a) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-009-gaiusc403_00978/)
   <details>
@@ -2131,7 +2136,7 @@ title: Основной сюжет — A Realm Reborn
     Надписи на земле: [(без названия)](https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=6bdcc179fc3b1103), [Проход в Преторий](https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=2e45295ca1b2708e)
   </details>
 
-## 2.1 --- A Realm Awoken {#arr-2-1}
+# 2.1 --- A Realm Awoken {#arr-2-1}
 
 * The Price of Principles --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=f2b0807e247d2dd0) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-011-gaiuse101_01175/)
   <details>
@@ -2222,7 +2227,7 @@ title: Основной сюжет — A Realm Reborn
 
 _Для продолжения игроку требуется сначала пройти серию [заданий Кристальной башни]({{ '/markdown/chronicles#crystal-tower' | relative_url }})._
 
-## 2.2 --- Through the Maelstrom {#arr-2-2}
+# 2.2 --- Through the Maelstrom {#arr-2-2}
 
 * Still Waters --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=898e9048e6be8fd9) / [Старый квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-013-gaiuse201_01345/) / [Новый квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-038-xxause201_03879/) / [Кат-сцена](https://translate.xivrus.ru/projects/ffxiv-translation/cut_scene-022-voiceman_02200/) - 0
   <details>
@@ -2345,7 +2350,7 @@ _Для продолжения игроку требуется сначала п
     NPC: [Югири](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=264b824839266a4c), [inconspicuous man](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2633b0d7a548f8c6), [shadowy woman](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=89ea8f242ff2feda), [Минфилия](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f76d19d0a96cf9a)
   </details>
 
-## 2.3 --- Defenders of Eorzea {#arr-2-3}
+# 2.3 --- Defenders of Eorzea {#arr-2-3}
 
 * The Great Divide --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=ad337ba3b294ec2e) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-014-gaiuse301_01442/) / [Кат-сцена](https://translate.xivrus.ru/projects/ffxiv-translation/cut_scene-023-voiceman_02300/) - 0
   <details>
@@ -2456,7 +2461,7 @@ _Для продолжения игроку требуется сначала п
     Предметы: [Ultramarine Uniform](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=181e4af65bc9a21e) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=181e4af65bc9a21e))
   </details>
 
-## 2.4 --- Dreams of Ice {#arr-2-4}
+# 2.4 --- Dreams of Ice {#arr-2-4}
 
 * Traitor in the Midst --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=6d4e6c65b6b58763) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-000-gaiuse401_00052/) / [Кат-сцена 1](https://translate.xivrus.ru/projects/ffxiv-translation/cut_scene-024-voiceman_02400/) - 0 / [Кат-сцена 2](https://translate.xivrus.ru/projects/ffxiv-translation/cut_scene-024-voiceman_02400/) - 1
   <details>
@@ -2607,9 +2612,9 @@ _Для продолжения игроку требуется сначала п
     NPC: [Альфино](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=97ff629d7ce485f1), [Ilberd](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a97d48597dda7a64), [Минфилия](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fd227fb37bfdf535)
   </details>
 
-## 2.5 --- Before the Fall {#arr-2-5}
+# 2.5 --- Before the Fall {#arr-2-5}
 
-### Часть 1 {#arr-2-5-1}
+## Часть 1 {#arr-2-5-1}
 
 * Good Intentions --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=5d26ee68db81a8de) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-003-gaiuse501_00363/)
   <details>
@@ -2682,7 +2687,7 @@ _Для продолжения игроку требуется сначала п
     Надписи на земле: [Цель](https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=9a0344d49fea09ea)
   </details>
 
-### Часть 2 {#arr-2-5-2}
+## Часть 2 {#arr-2-5-2}
 
 * Mask of Grief --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=32007bd58a91c0aa) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-003-gaiuse601_00370/) / [Кат-сцена](https://translate.xivrus.ru/projects/ffxiv-translation/cut_scene-025-voiceman_02500/) - 9
   <details>

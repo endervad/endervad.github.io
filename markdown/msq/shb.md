@@ -5,13 +5,17 @@ title: Основной сюжет — Shadowbringers
 
 **Внимание! Эта страница содержит названия всех квестов основного сюжета. Некоторые из них содержат в себе спойлеры.**
 
+# 5.0 --- Shadowbringers {#shb-5-0}
+
 * The Syrcus Trench
 * City of the First
 * Travelers of Norvrandt
 * In Search of Alphinaud
 * In Search of Alisaie
 
-### Цепочка квестов Альфино / Alphinaud {#shb-5-0-alphinaud}
+## Разветвление {#shb-5-0-divided}
+
+### Цепочка заданий Альфино {#shb-5-0-alphinaud}
 
 * A Still Tide
 * Open Arms, Closed Gate
@@ -22,7 +26,7 @@ title: Основной сюжет — Shadowbringers
 * A Blessed Instrument
 * Emergent Splendor
 
-### Цепочка квестов Ализе / Alisaie {#shb-5-0-alisaie}
+### Цепочка заданий Ализе {#shb-5-0-alisaie}
 
 * City of the Mord
 * Working Off the Meal
@@ -121,7 +125,7 @@ title: Основной сюжет — Shadowbringers
 * A Greater Purpose
 * Shadowbringers
 
-## 5.1 --- Vows of Virtue, Deeds of Cruelty {#shb-5-1}
+# 5.1 --- Vows of Virtue, Deeds of Cruelty {#shb-5-1}
 
 * Shaken Resolve
 * A Grand Adventure
@@ -134,7 +138,7 @@ title: Основной сюжет — Shadowbringers
 * Moving Forward
 * Vows of Virtue, Deeds of Cruelty
 
-## 5.2 --- Echoes of a Fallen Start {#shb-5-2}
+# 5.2 --- Echoes of a Fallen Start {#shb-5-2}
 
 * Old Enemies, New Threats
 * The Way Home
@@ -147,7 +151,7 @@ title: Основной сюжет — Shadowbringers
 * Beneath the Surface
 * Echoes of a Fallen Star
 
-## 5.3 --- Reflections in Crystal {#shb-5-3}
+# 5.3 --- Reflections in Crystal {#shb-5-3}
 
 * In the Name of the Light
 * Heroic Dreams
@@ -162,7 +166,7 @@ title: Основной сюжет — Shadowbringers
 * Unto the Morrow
 * Reflections in Crystal
 
-## 5.4 --- Future Rewritten {#shb-5-4}
+# 5.4 --- Future Rewritten {#shb-5-4}
 
 * Alisaie's Quest
 * The Wisdom of Allag
@@ -175,9 +179,9 @@ title: Основной сюжет — Shadowbringers
 * The Great Ship Vylbrand
 * Futures Rewritten
 
-## 5.5 --- Death Unto Dawn {#shb-5-5}
+# 5.5 --- Death Unto Dawn {#shb-5-5}
 
-### Часть 1 {#shb-5-5-1}
+## Часть 1 {#shb-5-5-1}
 
 * Unto the Breach 		
 * Here Be Dragons
@@ -186,7 +190,7 @@ title: Основной сюжет — Shadowbringers
 * The Flames of War
 * When the Dust Settles
 
-### Часть 2 {#shb-5-5-2}
+## Часть 2 {#shb-5-5-2}
 
 * The Company We Keep
 * On Official Business

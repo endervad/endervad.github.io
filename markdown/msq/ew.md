@@ -5,10 +5,14 @@ title: Основной сюжет — Endwalker
 
 **Внимание! Эта страница содержит названия всех квестов основного сюжета. Некоторые из них содержат в себе спойлеры.**
 
+# 6.0 --- Endwalker {#ew-6-0}
+
 * The Next Ship to Sail
 * Old Sharlayan, New to You
 
-### Цепочка квестов в Шарлеане / Sharlayan {#ew-6-0-sharlayan}
+## Разветвление {#ew-6-0-divided}
+
+### Цепочка квестов в Шарлеане {#ew-6-0-sharlayan}
 
 * Hitting the Books
 * A Seat at the Last Stand
@@ -20,7 +24,7 @@ title: Основной сюжет — Endwalker
 * A Guide of Sorts
 * Estate Visitor
 
-### Цепочка квестов в Тавнэйре / Thavnair {#ew-6-0-thavnair}
+### Цепочка квестов в Тавнэйре {#ew-6-0-thavnair}
 
 * For Thavnair Bound
 * On Low Tide
@@ -123,7 +127,7 @@ title: Основной сюжет — Endwalker
 * You’re Not Alone
 * Endwalker
 
-## 6.1 --- Newfound Adventure {#ew-6-1}
+# 6.1 --- Newfound Adventure {#ew-6-1}
 
 * Newfound Adventure
 * Bountiful Ruins
@@ -136,7 +140,7 @@ title: Основной сюжет — Endwalker
 * Void Theory
 * A Satrap's Duty
 
-## 6.2 --- Buried Memory {#ew-6-2}
+# 6.2 --- Buried Memory {#ew-6-2}
 
 * In Search of Azdaja
 * Shadowed Remnants
@@ -148,6 +152,6 @@ title: Основной сюжет — Endwalker
 * A World with Light and Life
 * Buried Memory
 
-## 6.3 {#ew-6-3}
+# 6.3 --- Gods Revel, Lands Tremble {#ew-6-3}
 
 _В ожидании выпуска..._

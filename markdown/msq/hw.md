@@ -5,6 +5,8 @@ title: Основной сюжет — Heavensward
 
 **Внимание! Эта страница содержит названия всех квестов основного сюжета. Некоторые из них содержат в себе спойлеры.**
 
+# 3.0 --- Heavensward {#hw-3-0}
+
 * Ур. 50 --- Coming to Ishgard --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=c3aeb5f64df97368) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-015-heavna101_01580/) / [Кат-сцена 1](https://translate.xivrus.ru/projects/ffxiv-translation/cut_scene-030-voiceman_03001/) - 0 / [Кат-сцена 2](https://translate.xivrus.ru/projects/ffxiv-translation/cut_scene-030-voiceman_03001/) - 1 / [Кат-сцена 3](https://translate.xivrus.ru/projects/ffxiv-translation/cut_scene-030-voiceman_03001/) - 2 / [Кат-сцена 4](https://translate.xivrus.ru/projects/ffxiv-translation/cut_scene-030-voiceman_03001/) - 3
   <details>
     <summary>NPC, предметы и т.д.
@@ -27,7 +29,9 @@ title: Основной сюжет — Heavensward
     NPC: [House Fortemps manservant](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=13c04710ed28fea3), [Альфино](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=95dc0666c28229d4), [Татару](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8d7f767cbcde597f), [Граф Эдмонт де Фортам](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=48beb710387334b8), [Artoirel](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d43d1b4e5b7b2cf0), [Emmanellain](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=98194e245aab988f), [Gibrillont](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=22b9b79248f62826), [Альфино](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b66db4087a3d2205), [Татару](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=24b5c9ed0044cad9), [House Fortemps manservant](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a679c753e7291842), [Honoroit](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=637796cc5cf9d5b1), [Альфино](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8d3d4e00abd68cd5), [Artoirel](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3eb502f4e4580f44), [Emmanellain](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=72a83f466b708d6f), [Honoroit](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fae9c9c7db438699)
   </details>
 
-### Цепочка квестов от Artoirel {#hw-3-0-artoirel}
+## Разветвление {#hw-3-0-divided}
+
+### Цепочка заданий Арторель {#hw-3-0-artoirel}
 
 * Ур. 50 --- Over the Wall --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=532815034932844c) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-015-heavna104_01583/) / [Кат-сцена](https://translate.xivrus.ru/projects/ffxiv-translation/cut_scene-030-voiceman_03001/) - 4
   <details>
@@ -95,7 +99,7 @@ title: Основной сюжет — Heavensward
     NPC: [Artoirel](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0c69651d9a57f4dd), [House Durendaire knight](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c34b2accee314aff), [(ACTOR2 - 1012346)](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2fa4d81dd8033488), [(ACTOR3 - 1012347)](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6f743d40d0570432), [Redwald](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4a0e2b6839fc4d95), [Artoirel](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3eb502f4e4580f44)
   </details>
 
-### Цепочка квестов от Emmanellain {#hw-3-0-emmanelain}
+### Цепочка заданий Эмманельен {#hw-3-0-emmanelain}
 
 * Ур. 50 --- Onwards and Upwards --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=dd3eddcda5adef6a) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-015-heavna111_01590/) / [Кат-сцена](https://translate.xivrus.ru/projects/ffxiv-translation/cut_scene-030-voiceman_03001/) - 6
   <details>
@@ -809,7 +813,7 @@ title: Основной сюжет — Heavensward
     Надписи на земле: [(EOBJECT0 - 2006358)](https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=2e5963e0ee010f21), [entry point](https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=15cd475cd714436c)
   </details>
 
-## 3.1 --- As Goes Light, So Goes Darkness {#hw-3-1}
+# 3.1 --- As Goes Light, So Goes Darkness {#hw-3-1}
 
 * Ур. 60 --- An Uncertain Future --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=0ada8103f27ae124) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-021-heavnb101_02156/) / [Кат-сцена 1](https://translate.xivrus.ru/projects/ffxiv-translation/cut_scene-031-voiceman_03100/) - 0 / [Кат-сцена 2](https://translate.xivrus.ru/projects/ffxiv-translation/cut_scene-031-voiceman_03100/) - 0 / [Кат-сцена 3](https://translate.xivrus.ru/projects/ffxiv-translation/cut_scene-031-voiceman_03100/) - 0
   <details>
@@ -880,7 +884,7 @@ title: Основной сюжет — Heavensward
     Надписи на земле: [(EOBJECT0 - 2006608)](https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=c6bafceffcbeabde)
   </details>
 
-## 3.2 --- Gears of the Change {#hw-3-2}
+# 3.2 --- Gears of the Change {#hw-3-2}
 
 * Ур. 60 --- As It Once Was --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=3ac4c036a88c2c42) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-022-heavnc101_02231/) / [Кат-сцена](https://translate.xivrus.ru/projects/ffxiv-translation/cut_scene-032-voiceman_03200/) - 0
   <details>
@@ -970,7 +974,7 @@ title: Основной сюжет — Heavensward
     Надписи на земле: [Цель](https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=5d2996fb694c6eff)
   </details>
 
-## 3.3 --- Revenge of the Horde {#hw-3-3}
+# 3.3 --- Revenge of the Horde {#hw-3-3}
 
 * Ур. 60 --- The Man Within --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=1c9358faa417b361) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-022-heavnd101_02242/) / [Кат-сцена 1](https://translate.xivrus.ru/projects/ffxiv-translation/cut_scene-033-voiceman_03300/) - 0 / [Кат-сцена 2](https://translate.xivrus.ru/projects/ffxiv-translation/cut_scene-033-voiceman_03300/) - 0
   <details>
@@ -1017,7 +1021,7 @@ title: Основной сюжет — Heavensward
     NPC: [Эмерик](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a3e4c416ecdebe16), [Эмерик](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ce4f86f5f85dff06), [Храмовник-глашатай](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c83b2f83da29f5fc), [Лючия](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b5f9e5c86d7707be), [Handeloup](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e31e10a6a5912848), [Эмерик](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3670cda1f2438742), [Альфино](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a284baa7f2799da9), [Татару](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8a6e004edc03e623)
   </details>
 
-## 3.4 --- Soul Surrender {#hw-3-4}
+# 3.4 --- Soul Surrender {#hw-3-4}
 
 * Ур. 60 --- Promises Kept --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=98dc541d422aa9cd) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-023-heavne101_02341/) / [Кат-сцена 1](https://translate.xivrus.ru/projects/ffxiv-translation/cut_scene-034-voiceman_03400/) - 0 / [Кат-сцена 2](https://translate.xivrus.ru/projects/ffxiv-translation/cut_scene-034-voiceman_03400/) - 0 / [Кат-сцена 3](https://translate.xivrus.ru/projects/ffxiv-translation/cut_scene-034-voiceman_03400/) - 0
   <details>
@@ -1098,9 +1102,9 @@ title: Основной сюжет — Heavensward
     NPC: [Альфино](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6608c9ee5c98624b), [Ализе](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=dec3870b503adcb0), [Танкред](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=692043857962e8d8), [Урианже](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a4d11a5e9bc464dc), [Папалимо](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=03ed295e2cdbe3c3), [Ида](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1ecaead5f06e8dbc), [Альфино](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7896028fee0e7fc0), [Альфино](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=279adbed634364d5), [Гундобальд](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2755b9c937677270), [Hoary Boulder](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8cb2b6b7c1dec530), [Coultenet](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=359678fafd4b0ec0), [Ф'ламинн](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0d8798275471962d), [Альфино](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6ffe74b1ebc49ef8), [Ализе](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=55b3a0bba724302c), [Татару](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=21199e67794be83d), [Танкред](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a73fc018aea20ab8), [Я'штола](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b808e96f8dffd9f2), [Урианже](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=abb7fc749657d1de), [Крайл](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=aed80e8f14954cb4), [Ида](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ac11935e7c06d279), [Папалимо](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6d2d24df7762a2dd), [Ocher Boulder](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2334f67d1e051340), [Aenor](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=59a21590a1f86d51), [Clemence](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0ef3460b3a3aac13)
   </details>
 
-## 3.5 --- The Far Edge of Fate {#hw-3-5}
+# 3.5 --- The Far Edge of Fate {#hw-3-5}
 
-### Часть 1  {#hw-3-5-1}
+## Часть 1  {#hw-3-5-1}
 
 * Ур. 60 --- Tidings from Gyr Abania --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=4f8ad38b8a757f02) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-023-heavnf101_02351/) / [Кат-сцена](https://translate.xivrus.ru/projects/ffxiv-translation/cut_scene-035-voiceman_03500/) - 0
   <details>
@@ -1142,7 +1146,7 @@ title: Основной сюжет — Heavensward
     NPC: [Альфино](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=938508c5321a0f69), [Ида](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a052ba3003b79bd0), [Hilda](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=31ada98c0a4eee49), [Pipin](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=14353c87bba49c3e), [Югири](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9504ea63674dde1e), [Танкред](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5d79654513a79786), [Ализе](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=44058ffc57b5638d), [Татару](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=56e598339a2f51fc)
   </details>
 
-### Часть 2 {#hw-3-5-2}
+## Часть 2 {#hw-3-5-2}
 
 * Ур. 60 --- The Obvious Solution --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=025e75708946d1a6) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-023-heavng101_02356/) / [Кат-сцена 1](https://translate.xivrus.ru/projects/ffxiv-translation/cut_scene-035-voiceman_03500/) - 0 / [Кат-сцена 2](https://translate.xivrus.ru/projects/ffxiv-translation/cut_scene-035-voiceman_03500/) - 0
   <details>

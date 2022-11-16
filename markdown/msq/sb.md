@@ -5,20 +5,24 @@ title: Основной сюжет — Stormblood
 
 **Внимание! Эта страница содержит названия всех квестов основного сюжета. Некоторые из них содержат в себе спойлеры.**
 
+# 4.0 --- Stormblood {#sb-4-0}
+
 * Beyond the Great Wall
 * Lyse Takes the Lead
 * The Promise of a New Beginning
 * A Haven for the Bold
 * A Bargain Struck
 
-### Цепочка квестов от M'naago {#sb-4-0-mnaago}
+## Разветвление {#sb-4-0-divided}
+
+### Цепочка заданий M'naago {#sb-4-0-mnaago}
 
 * A Friend of a Friend in Need
 * Signed, Sealed, to Be Delivered
 * Best Served with Cold Steel
 * Let Fill Your Hearts with Pride
 
-### Цепочка квестов от Meffrid {#sb-4-0-meffrid}
+### Цепочка заданий Meffrid {#sb-4-0-meffrid}
 
 * A Familiar Face Forgotten
 * The Prodigal Daughter
@@ -137,7 +141,7 @@ title: Основной сюжет — Stormblood
 * The Measure of His Reach
 * Stormblood
 
-## 4.1 --- The Legend Returns {#sb-4-1}
+# 4.1 --- The Legend Returns {#sb-4-1}
 
 * Arenvald's Adventure
 * The Darkness Below
@@ -151,7 +155,7 @@ title: Основной сюжет — Stormblood
 * A Blissful Arrival
 * Return of the Bull
 
-## 4.2 --- Rise of a New Sun {#sb-4-2}
+# 4.2 --- Rise of a New Sun {#sb-4-2}
 
 * Tidings from the East
 * The Sword in the Store
@@ -162,7 +166,7 @@ title: Основной сюжет — Stormblood
 * A Guilty Conscience
 * Rise of a New Sun
 
-## 4.3 --- Under the Moonlight {#sb-4-3}
+# 4.3 --- Under the Moonlight {#sb-4-3}
 
 * Gosetsu and Tsuyu
 * Gone Like the Morning Dew
@@ -172,7 +176,7 @@ title: Основной сюжет — Stormblood
 * Under the Moonlight
 * Emissary of the Dawn
 
-## 4.4 --- Prelude in Violet {#sb-4-4}
+# 4.4 --- Prelude in Violet {#sb-4-4}
 
 * Sisterly Act
 * Feel the Burn
@@ -182,9 +186,9 @@ title: Основной сюжет — Stormblood
 * The Call
 * Prelude in Violet
 
-## 4.5 --- A Requiem for Heroes {#sb-4-5}
+# 4.5 --- A Requiem for Heroes {#sb-4-5}
 
-### Часть 1 {#sb-4-5-1}
+## Часть 1 {#sb-4-5-1}
 
 * Soul Searching
 * A Defector's Tidings
@@ -192,7 +196,7 @@ title: Основной сюжет — Stormblood
 * Parley on the Front Lines
 * The Face of War
 
-### Часть 2 {#sb-4-5-2}
+## Часть 2 {#sb-4-5-2}
 
 * A Brief Reprieve
 * A Requiem for Heroes
