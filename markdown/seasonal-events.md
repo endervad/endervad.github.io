@@ -7,19 +7,19 @@ title: Сезонные события
 
 ### 2023 {#heavensturn-2023}
 
-* Ур. 0 --- The Box of Fortune --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=426e619ba94bbbd8) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-045-fesnyr901_04588/)
+* Ур. 15 --- The Box of Fortune --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=426e619ba94bbbd8) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-045-fesnyr901_04588/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
 
-    NPC: (ACTOR0 - 0), (ACTOR1 - 0), (ACTOR2 - 0), (ACTOR3 - 0), (ACTOR4 - 0), (ACTOR5 - 0), (ACTOR6 - 0)
+    NPC: [usagi bugyo](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3b1a0d65cb97e694), [Far Eastern omikujishi](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5df856152ab82f69), [I'tolwann](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fc36213e1af4b078), [Beaudefoin](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1365588af8f713b3), [Росвен](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=132d0af061e3760c), [Trachraet](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5078311948388408), [Hildelana](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=56e69cd17e095adc)
   </details>
-* Ур. 0 --- With Great Fortune Comes Great Responsibility --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=aaf27ce29a1b17ed) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-045-fesnyr902_04589/)
+* Ур. 15 --- With Great Fortune Comes Great Responsibility --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=aaf27ce29a1b17ed) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-045-fesnyr902_04589/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
 
-    NPC: (ACTOR0 - 0), (ACTOR1 - 0), (ACTOR2 - 0), (ACTOR3 - 0), (ACTOR4 - 0), (ACTOR5 - 0), (ACTOR6 - 0), (ACTOR7 - 0), (ACTOR8 - 0)
+    NPC: [Far Eastern omikujishi](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5df856152ab82f69), [Beaudefoin](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=dfb8af66cfb47cdb), [Hildelana](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b1c9f73121e4ccdf), [Beaudefoin](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8afee8e172acced2), [Hildelana](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1c60f2058b094efd), [(ACTOR5 - 1042665)](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1f2ec09f59522818), [(ACTOR6 - 1042774)](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8800fb6f69884e63), [(ACTOR7 - 1042775)](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ef427c40f3f2b9aa), [mochi daikan](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4fba887837afbb5c)
   </details>
 
 ## День Валентиона {#valentione}
