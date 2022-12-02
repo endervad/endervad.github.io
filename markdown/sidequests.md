@@ -511,6 +511,153 @@ title: Побочный сюжет
 
 # Побочные задания Гридании {#gridanian-sidequests}
 
+## Гридания {#gridanian-sidequests-gridania}
+
+* Ур. 1 --- Coming to Gridania --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=35b204fae403fbc1) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-000-manfst001_00039/)
+  <details>
+    <summary>NPC, предметы и т.д.
+    </summary>
+
+    NPC: [Бертеннант](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=16f4d49dd9e7808f), [Матушка Миунна](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fa91f1d393841f63)
+    <br>
+    Надписи на земле: [(EOBJECT0 - 2001659)](https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=c5b1d51b1fdcc1dd), [(EOBJECT1 - 2001660)](https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=18ada224979620c2), (EOBJECT7 - 2616477)
+  </details>
+* Ур. 1 --- A Good Adventurer Is Hard to Find --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=9614371437e6f570) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-000-subfst010_00001/)
+  <details>
+    <summary>NPC, предметы и т.д.
+    </summary>
+
+    NPC: [Бернадетта](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2259e63cd6e98635), [Шанселот](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=12e76d5cf6fd8214)
+  </details>
+* Ур. 1 --- Incense and Sensibility --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=c0c5ab9ce1e5e83d) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-000-subfst000_00020/)
+  <details>
+    <summary>NPC, предметы и т.д.
+    </summary>
+
+    NPC: [Mellaine](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7aba69e3ccf8edf0), [Braya](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a859fb8b3c881d27)
+    <br>
+    Предметы: [флакон розового масла Азимы](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=0877a2584e66da9e) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=0877a2584e66da9e))
+    <br>
+    Надписи на земле: [censer](https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=f464109b88e10eca), [censer](https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=f522a88eb4840c96)
+  </details>
+* Ур. 1 --- Coarse Correspondence --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=dabab2f1716c6c9b) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-000-subfst001_00024/)
+  <details>
+    <summary>NPC, предметы и т.д.
+    </summary>
+
+    NPC: [F'mibhas](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=460af68a9d2efd02), [Парнелл](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=0ba8e420a812ebc9)
+    <br>
+    Предметы: [F'mibhas's sealed message](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=f729a1e6f3e7bc9a) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=f729a1e6f3e7bc9a))
+  </details>
+* Ур. 1 --- Preserving the Past --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=b45e60fe284e00fb) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-000-subfst004_00027/)
+  <details>
+    <summary>NPC, предметы и т.д.
+    </summary>
+
+    NPC: [Idele](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=30f4b916c1129906), [Louhelic](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=50ce71992c953a54), [Artor](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=cbb6e4784f739bb7)
+    <br>
+    Предметы: [recruit's toolbox](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=e156b39425d402e7) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=e156b39425d402e7))
+  </details>
+* Ур. 1 --- I Am Millicent, Hear Me Roar --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=c9010a8984229f3c) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-000-subfst019_00049/)
+  <details>
+    <summary>NPC, предметы и т.д.
+    </summary>
+
+    NPC: [Duimessand](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4c8afec10c9f7401), [Millicent](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9e144d53d183c021)
+  </details>
+* Ур. 1 --- Parsemontrenomics --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=adaeb54ed6983cb2) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-000-subfst012_00038/)
+  <details>
+    <summary>NPC, предметы и т.д.
+    </summary>
+
+    NPC: [Парсмонтре](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e1a101f02ab56740), [Gurthcid](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a16733643cdd4181), [Admiranda](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b894e1b801a841b4), [Alaric](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=22611d8065c625ea), [ Кенгалед](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=857cb01bbb558c16)
+    <br>
+    Предметы: [bone spearhead](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=17ba9cfff929ff6e) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=17ba9cfff929ff6e)), [pot of beeswax oil](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=7936234374512bac) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=7936234374512bac)), [length of brambleweed rope](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=dedbef24bca6c6fa) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=dedbef24bca6c6fa))
+  </details>
+* Ур. 1 --- For Friendship --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=87a9a38d256f5b86) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-000-subfst013_00040/)
+  <details>
+    <summary>NPC, предметы и т.д.
+    </summary>
+
+    NPC: [Nicoliaux](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=225b3a8890789e5c), [Онилль](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=038262c09e2bd855)
+  </details>
+* Ур. 1 --- Covered in Roses --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=3a54bd9df40ad58a) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-000-subfst014_00041/)
+  <details>
+    <summary>NPC, предметы и т.д.
+    </summary>
+
+    NPC: [Samiane](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=bd97a83e3e278511)
+    <br>
+    Предметы: [Azeyma rose hip](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=dd4bb4d68bca1e5f) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=dd4bb4d68bca1e5f))
+    <br>
+    Надписи на земле: [Azeyma rose hip](https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=278f1b95d2fb047a), [Azeyma rose hip](https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=71b33f8943e90e7f), [Azeyma rose hip](https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=cae80c5cc0b5a835), [Azeyma rose hip](https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=2c8a4cba89343ad6), [Azeyma rose hip](https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=fb5f90a9b23ad7d5), [Azeyma rose hip](https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=ccf1e8d0eb51a0dc)
+  </details>
+* Ур. 1 --- Sylphic Gratitude --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=1b17f604ff66a7c8) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-000-subfst015_00042/)
+  <details>
+    <summary>NPC, предметы и т.д.
+    </summary>
+
+    NPC: [Эстейн](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=73ffb2631af726aa)
+    <br>
+    Надписи на земле: [vegetable offering](https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=3b4aa64b9b7ad731), [vegetable offering](https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=a8c48fdf74b4ecbe), [vegetable offering](https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=d900c4d4182b8e09), [vegetable offering](https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=fe0ee7be8d91a104), [vegetable offering](https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=e156b39425d402e7), [vegetable offering](https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=b52f6277ebda583d)
+  </details>
+* Ур. 1 --- Quarrels with Squirrels --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=c97a528d2fb2d418) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-000-subfst002_00025/)
+  <details>
+    <summary>NPC, предметы и т.д.
+    </summary>
+
+    NPC: [Boiselont](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=363b540dc4805462)
+    <br>
+    Вражеские NPC: [Земляная белка](https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=3d0e22173938ea89)
+  </details>
+* Ур. 1 --- Once Bitten, Twice Shy --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=cc6998e6d3a17de7) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-000-subfst003_00026/)
+  <details>
+    <summary>NPC, предметы и т.д.
+    </summary>
+
+    NPC: [Ethelred](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=98322d0c90e74139), [Waldew](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=58c0c29b5c742c28)
+    <br>
+    Предметы: [Azeyma rose](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=cae80c5cc0b5a835) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=cae80c5cc0b5a835))
+  </details>
+* Ур. 1 --- Essential Oil --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=5d78280077a70b44) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-000-subfst007_00031/)
+  <details>
+    <summary>NPC, предметы и т.д.
+    </summary>
+
+    NPC: [Braya](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a859fb8b3c881d27)
+    <br>
+    Вражеские NPC: [Маленькая божья коровка](https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=afa51a1b6d548e38)
+    <br>
+    Предметы: [phial of scarlet oil](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=41abb9089e6bcc74) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=41abb9089e6bcc74))
+  </details>
+* Ур. 3 --- A Hard Nut to Crack --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=21079816f8b79dcd) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-000-subfst008_00032/)
+  <details>
+    <summary>NPC, предметы и т.д.
+    </summary>
+
+    NPC: [Tatasosa](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=66326f486061b540), [Barnabontant](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=81070bd2b02728f1), [Bodwine](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=583af6fb4f131ba4)
+    <br>
+    Предметы: [iron snaffle](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=2c8a4cba89343ad6) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=2c8a4cba89343ad6))
+  </details>
+* Ур. 4 --- Derision of Labor --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=ffefb19713f28fe9) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-000-subfst009_00034/)
+  <details>
+    <summary>NPC, предметы и т.д.
+    </summary>
+
+    NPC: [Celestine](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6d66cc056f0ea366), [Цуб Каназом](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e55fb101c14fb4ae)
+    <br>
+    Предметы: [bag of basic provisions](https://translate.xivrus.ru/translate/ffxiv-translation/eventitem/ru/?checksum=f711d41c78671504) ([Описание](https://translate.xivrus.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=f711d41c78671504))
+  </details>
+* Ур. 1 --- Population Control --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=e744cbe57e15aee2) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-000-subfst011_00037/)
+  <details>
+    <summary>NPC, предметы и т.д.
+    </summary>
+
+    NPC: [Шанселот](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=12e76d5cf6fd8214)
+    <br>
+    Вражеские NPC: [Лесная грибница](https://translate.xivrus.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=756b5593dcff2a2b)
+  </details>
+
 ## Северная Роща {#gridanian-sidequests-north-shroud}
 
 * Ур. 50 --- One Man's Trash --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=ecf3edbe2711eedd) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-011-jobrel005_01140/)
