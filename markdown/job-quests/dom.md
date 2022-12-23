@@ -7,6 +7,7 @@ title: Адепты Магии
 
 ![Изображение заданий элементалиста](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e7/e7ada40313a99bd2680cb75423308ed4057cbf11.png)
 
+* Ур. 1 --- So You Want to Be a Conjurer --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=81ed56cb0101a6d4) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-001-clscnj999_00182/)
 * Ур. 1 --- Way of the Conjurer --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=b499f3fe35f792e3) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-000-clscnj000_00022/)
   <details>
     <summary>NPC, предметы и т.д.
@@ -114,6 +115,7 @@ title: Адепты Магии
 
 ![Изображение заданий оккультиста](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/1d/1d1b5d0c860020b0cc0010c1e27fdadc20978d0d.png)
 
+* Ур. 1 --- So You Want to Be a Thaumaturge --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=a2e18edc6e72d197) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-001-clsthm001_00183/)
 * Ур. 1 --- Way of the Thaumaturge --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=105abecb920c8ab1) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-003-clsthm011_00344/)
   <details>
     <summary>NPC, предметы и т.д.
@@ -227,6 +229,7 @@ title: Адепты Магии
 
 ![Изображение заданий арканиста](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/37/37a8d65a8cae978d922a694a4d310979ed6e119d.png)
 
+* Ур. 1 --- So You Want to Be an Arcanist --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=f3eb33e26d99cff2) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-004-clsacn001_00451/)
 * Ур. 1 --- Way of the Arcanist --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=2d86a08c29c1dd05) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-004-clsacn011_00452/)
   <details>
     <summary>NPC, предметы и т.д.

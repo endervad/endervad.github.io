@@ -672,6 +672,16 @@ title: Побочный сюжет
 
 # Побочные задания Уль'ды {#uldahn-sidequests}
 
+## Площадь Чокобо {#uldahn-sidequests-chocobo-square}
+
+* Ур. 15 --- So You Want to Be a Jockey --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=b91e0de0fda1a4f6) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-004-subgsc101_00436/)
+  <details>
+    <summary>NPC, предметы и т.д.
+    </summary>
+
+    NPC: [race chocobo registrar](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5c14a31ede3982f7), [Кейтерин](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9f1a682dc4fbcde0)
+  </details>
+
 ## Западный Таналан {#uldahn-sidequests-western-thanalan}
 
 * Ур. 19 --- Hallo Halatali --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=5eaad1470ec50e87) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-006-subwil140_00697/)

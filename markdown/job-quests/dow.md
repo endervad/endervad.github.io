@@ -7,6 +7,7 @@ title: Адепты Битвы
 
 ![Изображение заданий гладиатора](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/93/933c40306fd4278c10d405d113566b500958f710.png)
 
+* Ур. 1 --- So You Want to Be a Gladiator --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=8d1ef3853cd2a3ac) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-001-clsgla001_00177/)
 * Ур. 1 --- Way of the Gladiator --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=d03489f705f758b8) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-002-clsgla020_00253/)
   <details>
     <summary markdown="span">NPC, предметы и т.д.
@@ -118,6 +119,7 @@ title: Адепты Битвы
 
 ![Изображение заданий борца](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/c9/c902c3cc7e07b7aa4426f92492ec0ccb47c9f182.png)
 
+* Ур. 1 --- So You Want to Be a Pugilist --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=b86278a9e5f79396) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-001-clspgl001_00178/)
 * Ур. 1 --- Way of the Pugilist --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=1f818f9b6a0dab1b) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-005-clspgl011_00532/)
   <details>
     <summary>NPC, предметы и т.д.
@@ -231,6 +233,7 @@ title: Адепты Битвы
 
 ![Изображение заданий мародёра](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/82/829aa4fb78970f0416c6583b29b842a4db4eda97.png)
 
+* Ур. 1 --- So You Want to Be a Marauder --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=92dae26b7efab768) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-001-clsexc001_00179/)
 * Ур. 1 --- Way of the Marauder --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=fc7a3e5a8a09da0b) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-003-clsexc011_00310/)
   <details>
     <summary>NPC, предметы и т.д.
@@ -336,6 +339,7 @@ title: Адепты Битвы
 
 ![Изображение заданий копейщика](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/6b/6bcda150dd380b83cf304aae13707b40ff5ad058.png)
 
+* Ур. 1 --- So You Want to Be a Lancer --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=4081ae47c973f1ec) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-001-clslnc999_00180/)
 * Ур. 1 --- Way of the Lancer --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=385e1cecf6395f58) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-000-clslnc000_00023/)
   <details>
     <summary>NPC, предметы и т.д.
@@ -453,6 +457,7 @@ title: Адепты Битвы
 
 ![Изображение заданий лучника](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b3/b368d01f9fd86af8bda0f53705c972bbafc5e667.png)
 
+* Ур. 1 --- So You Want to Be an Archer --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=254048af3c186bd6) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-001-clsarc999_00181/)
 * Ур. 1 --- Way of the Archer --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=c85c8dd7443aa527) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-000-clsarc000_00021/)
   <details>
     <summary>NPC, предметы и т.д.
@@ -552,6 +557,7 @@ title: Адепты Битвы
 
 ![Изображение заданий разбойника](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ad/ade70e5bcfa139159ab0898bea8e09e2150ad55e.png)
 
+* Ур. 1 --- So You Want to Be a Rogue --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=50f217ba1042ad30) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-001-clsrog001_00101/)
 * Ур. 1 --- My First Daggers --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=e8a91ca97b8aacb7) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-001-clsrog011_00102/)
   <details>
     <summary>NPC, предметы и т.д.

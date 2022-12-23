@@ -7,6 +7,7 @@ title: Адепты Ремесла
 
 ![Изображение заданий плотника - ARR](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/48/48a6cf3fa0660e29c513b4bb3bb0256293585665.png)
 
+* Ур. 1 --- So You Want to Be a Carpenter --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=e470e7812c80403a) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-001-clswdk999_00184/)
 * Ур. 1 --- Way of the Carpenter --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=29317e2cedd22ccf) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-001-clswdk000_00138/)
   <details>
     <summary>NPC, предметы и т.д.
@@ -178,6 +179,7 @@ title: Адепты Ремесла
 
 ![Изображение заданий кузнеца - ARR](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/81/81c5b40687f8b91de88993d6de6d42631a823a3c.png)
 
+* Ур. 1 --- So You Want to Be a Blacksmith --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=3156e0c1cde3d910) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-001-clsbsm001_00185/)
 * Ур. 1 --- Way of the Blacksmith --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=fc778abf77097b67) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-002-clsbsm011_00291/)
   <details>
     <summary>NPC, предметы и т.д.
@@ -357,6 +359,7 @@ title: Адепты Ремесла
 
 ![Изображение заданий бронника - ARR](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f8/f8802d371173bb39f0fa507bff2b54cd8648f6d7.png)
 
+* Ур. 1 --- So You Want to Be an Armorer --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=912381b3bcb89509) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-001-clsarm001_00186/)
 * Ур. 1 --- Way of the Armorer --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=6014825d95184caa) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-002-clsarm011_00273/)
   <details>
     <summary>NPC, предметы и т.д.
@@ -524,6 +527,7 @@ title: Адепты Ремесла
 
 ![Изображение заданий ювелира - ARR](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/bd/bd514d6c14690fb3c55d9481d2b66156b276e33b.png)
 
+* Ур. 1 --- So You Want to Be a Goldsmith --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=8004a5538769dba2) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-001-clsgld001_00187/)
 * Ур. 1 --- Way of the Goldsmith --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=e01e6decdb57eb66) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-006-clsgld011_00608/)
   <details>
     <summary>NPC, предметы и т.д.
@@ -697,6 +701,7 @@ title: Адепты Ремесла
 
 ![Изображение заданий кожевника - ARR](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/43/43571d6df31b4bc9c00bc620c6984b565f568967.png)
 
+* Ур. 1 --- So You Want to Be a Leatherworker --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=35be3e4cffecac2d) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-001-clstan999_00188/)
 * Ур. 1 --- Way of the Leatherworker --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=b2f4db7a4b6178f9) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-001-clstan000_00105/)
   <details>
     <summary>NPC, предметы и т.д.
@@ -878,6 +883,7 @@ title: Адепты Ремесла
 
 ![Изображение заданий ткача - ARR](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/90/903bb5a15fcc70b52bbc97a647c84a4d2c51467e.png)
 
+* Ур. 1 --- So You Want to Be a Weaver --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=cb30123f612564be) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-001-clswvr001_00189/)
 * Ур. 1 --- Way of the Weaver --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=257e8dd642ece749) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-005-clswvr011_00534/)
   <details>
     <summary>NPC, предметы и т.д.
@@ -1047,6 +1053,7 @@ title: Адепты Ремесла
 
 ![Изображение заданий алхимика - ARR](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/be/be8e08d1c265642be9af9c3ee8dc2c7e378f36bd.png)
 
+* Ур. 1 --- So You Want to Be an Alchemist --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=24941fe98bb65d31) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-001-clsalc001_00190/)
 * Ур. 1 --- Way of the Alchemist --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=79848d1fd6a2fbcb) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-005-clsalc011_00575/)
   <details>
     <summary>NPC, предметы и т.д.
@@ -1230,6 +1237,7 @@ title: Адепты Ремесла
 
 ![Изображение заданий кулинара - ARR](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/cf/cfecc495a382e264f3022a245636798ae42f5761.png)
 
+* Ур. 1 --- So You Want to Be a Culinarian --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=7caa7cf075525b13) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-001-clscul001_00191/)
 * Ур. 1 --- Way of the Culinarian --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=ced8200068c09d1a) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-002-clscul011_00271/)
   <details>
     <summary>NPC, предметы и т.д.

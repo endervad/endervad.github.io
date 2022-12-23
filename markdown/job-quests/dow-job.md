@@ -1449,6 +1449,13 @@ title: Адепты Битвы — Профессии
 
 ![Изображение заданий механика - ARR](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/45/45b9e6d07e9c9f782f44178892d14e1829af25df.png)
 
+* Ур. 50 --- So You Want to Be a Machinist --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=2c0a5d9d470c7e95) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-021-jobmch299_02109/)
+  <details>
+    <summary>NPC, предметы и т.д.
+    </summary>
+
+    NPC: [Стефанивьян](https://translate.xivrus.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=bd7722ab1eaa19c8)
+  </details>
 * Ур. 50 --- Savior of Skysteel --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=9fa15ea9f55b6d29) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-016-jobmch300_01696/)
   <details>
     <summary>NPC, предметы и т.д.

@@ -7,6 +7,7 @@ title: Адепты Сбора
 
 ![Изображение заданий горняка - ARR](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d2/d2daa71ae34e6e43ecd000c6145c9dbad41984b6.png)
 
+* Ур. 1 --- So You Want to Be a Miner --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=360a9adc9f69b46b) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-001-clsmin001_00192/)
 * Ур. 1 --- Way of the Miner --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=d8e76f5a5e2343b3) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-005-clsmin011_00597/)
   <details>
     <summary>NPC, предметы и т.д.
@@ -186,6 +187,7 @@ title: Адепты Сбора
 
 ![Изображение заданий ботаника - ARR](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/3d/3ddda29bc2571f2784aef8badfb6f8ac7dcd1e7d.png)
 
+* Ур. 1 --- So You Want to Be a Botanist --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=8ef4c6f93702ce6e) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-001-clshrv999_00193/)
 * Ур. 1 --- Way of the Botanist --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=a12067c2479b7c7b) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-000-clshrv001_00003/)
   <details>
     <summary>NPC, предметы и т.д.
@@ -365,6 +367,7 @@ title: Адепты Сбора
 
 ![Изображение заданий рыбака - ARR](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a0/a0e740343cf22d49d1aa459235e53811dad55403.png)
 
+* Ур. 1 --- So You Want to Be a Fisher --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=5bb916a39c51a070) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-011-clsfsh001_01134/)
 * Ур. 1 --- Way of the Fisher --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=a471ea0b8e8f6417) / [Квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-011-clsfsh011_01107/)
   <details>
     <summary>NPC, предметы и т.д.
