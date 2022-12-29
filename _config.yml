@@ -2,7 +2,7 @@
 name: XIV Rus
 
 project:
-  version: 0.5.6
+  version: 0.5.7
   version_ruen:
   description: Неофициальная русская локализация FINAL FANTASY XIV
   download_url: https://github.com/endervad/ffxiv_translation/releases
