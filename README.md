@@ -1,1 +1,1 @@
-## XIV Rus website
+## XIV Rus websites theme
