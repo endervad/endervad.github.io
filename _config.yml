@@ -56,15 +56,3 @@ social:
 
 analytics:
   google: UA-123456-1
-
-# Build settings
-markdown: kramdown
-kramdown:
-  parse_block_html: true
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - jekyll-docs-theme.gemspec
-  - LICENSE.md
-  - README.md
-  - screenshot.png
