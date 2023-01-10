@@ -1,0 +1,7 @@
+.youtube-video {
+	display: block;
+	margin: auto;
+	aspect-ratio: 16 / 9;
+	width: 80%;
+	height: 100%;
+}
