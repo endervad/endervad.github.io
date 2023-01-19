@@ -1,7 +1,7 @@
 <ul class="image-gallery">
 	{% if include.files %}
 		{% assign files = include.files %}
-	{% elseif include.folder %}
+	{% elsif include.folder %}
 		{% for file in site.static_files %}
 			{% if file.path contains include.folder %}
 				{% if file.extname == '.png' %}
